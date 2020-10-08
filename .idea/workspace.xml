@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8604aa97-800b-4e2d-8db2-f12ba907135f" name="Default Changelist" comment="should fix some things" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hxqu2sQ48UChe3ekPxLGX0LGBZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\walki\WebstormProjects\Lunch4Four" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8604aa97-800b-4e2d-8db2-f12ba907135f" name="Default Changelist" comment="" />
+      <created>1600963309860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600963309860</updated>
+      <workItem from="1600963310944" duration="690000" />
+      <workItem from="1601044094598" duration="44000" />
+      <workItem from="1602180319632" duration="873000" />
+    </task>
+    <task id="LOCAL-00001" summary="should fix some things">
+      <created>1602181160851</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602181160851</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="should fix things" />
+    <MESSAGE value="should fix some things" />
+    <option name="LAST_COMMIT_MESSAGE" value="should fix some things" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="796" y="331" key="FileChooserDialogImpl" timestamp="1602181179619">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="796" y="331" key="FileChooserDialogImpl/0.0.1920.1080/1920.298.1920.1080/-1920.800.1920.1080@0.0.1920.1080" timestamp="1602181179619" />
+    <state x="2583" y="654" key="FileChooserDialogImpl/0.0.1920.1080/1920.378.1600.900/-1920.798.1920.1080@1920.378.1600.900" timestamp="1600963340420" />
+    <state x="2677" y="797" key="Github.ShareDialog" timestamp="1600963370102">
+      <screen x="1920" y="378" width="1600" height="900" />
+    </state>
+    <state x="2677" y="797" key="Github.ShareDialog/0.0.1920.1080/1920.378.1600.900/-1920.798.1920.1080@1920.378.1600.900" timestamp="1600963370102" />
+    <state x="2565" y="604" key="Github.UntrackedFilesDialog" timestamp="1600963391552">
+      <screen x="1920" y="378" width="1600" height="900" />
+    </state>
+    <state x="2565" y="604" key="Github.UntrackedFilesDialog/0.0.1920.1080/1920.378.1600.900/-1920.798.1920.1080@1920.378.1600.900" timestamp="1600963391552" />
+    <state x="777" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602181192327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="777" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.298.1920.1080/-1920.800.1920.1080@0.0.1920.1080" timestamp="1602181192327" />
+  </component>
+</project>
