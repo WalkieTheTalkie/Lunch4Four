@@ -1,0 +1,32 @@
+doctype
+html
+    head 
+        title Lunch4Four
+        meta(charset="utf-8")
+        meta(name="viewport" content="width=device-width, initial-scale=1, user-scalable=no")
+        link(rel='stylesheet' href="assets/css/main.css")
+    body(class="is-preload")
+        //Header
+        header
+            h1 Lunch4Four
+            p Sign up for lunch
+                br we'll get you started
+        form(id="signup-form" method="post" action="#")
+            input(type="email" name="email" id="email" placeholder="Email Address")
+            input(type="submit" value="sign Up")
+        footer(id='footer')
+            ul(class="icons")
+                li
+                    a(href="#" class="icon brands fa-twitter")
+                        span(class="label") Twitter
+                li
+                    a(href="#" class="icon brands fa-instagram")
+                        span(class="label") Instagram
+                li
+                    a(href="#" class="icon brands fa-github")
+                        span(class="label") Github
+                li
+                    a(href="#" class="icon fa-envelope")
+                        span(class="label") Email
+        //scripts
+        scripts(src="assets/js/main.js")
