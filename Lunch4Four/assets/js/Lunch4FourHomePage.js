@@ -18,7 +18,7 @@ app.set('views','views');
 app.get('/home', function(req, res){
     con.connect(function(err){
         if(err) throw err;
-        con.query("select * from Lunch4FourUserTest where Fname = 'John'", function(err2, res2, fields){
+        con.query("select * from Lunch4FourUserTest where Fname = 'John'", function(err2, res2){
             console.log("we ok");
             let data = {};
             for(let i in res2){
