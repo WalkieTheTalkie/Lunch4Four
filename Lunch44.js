@@ -4,11 +4,11 @@ var app = express();
 
 var mysql = require('mysql');
 
-var con = mysql.createConnection({
+var connection = mysql.createConnection({
   host: "45.55.136.114:3306",
-  user: "csc3610",
-  password: "csc3610",
-  database: "csc3610"
+  user: "JakeJosh_F2020",
+  password: "pizza1234",
+  database: "JakeJosh_F2020"
 });
 
 //con.connect(function(err) {
