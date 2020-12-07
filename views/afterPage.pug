@@ -1,0 +1,45 @@
+doctype html
+html
+    head
+        title Lunch4Four
+        link(rel='stylesheet',href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css')
+        style.
+            h1{text-align: center;}
+            h2{text-align: center;}
+    body
+        nav(class="navbar navbar-expand-lg navbar-dark bg-dark")
+            div.container
+            ul.col-12.row
+                a(href="#") Lunch4Four
+    br
+    h1 Your current group #{id}
+    h2 Your Group Schedule:
+    h2 #{date}
+    table(style='width:20%', border='1', align="center")
+        tr
+                th name
+                th dept
+                th email
+        tr
+                td #{leaderName}
+                td dhrs
+                td #{leaderEmail}
+        tr
+                td #{gr1N}
+                td dhrs
+                td #{gr1E}
+        tr
+                td #{gr2N}
+                td dhrs
+                td #{gr2E}
+        tr
+                td #{gr3N}
+                td dhrs
+                td #{gr3E}
+    form( action='settings', method='post', align="center")
+
+            br
+            button(type="gg") Settings
+    form( action = 'admin', method='post', align="center")
+            br
+            button(type="submit") I am an admin

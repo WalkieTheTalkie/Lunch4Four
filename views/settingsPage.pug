@@ -1,0 +1,34 @@
+doctype html
+
+link(rel='stylesheet', href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css")
+
+head
+    title Simple Table
+body    
+    h2 Placeholder Text
+    
+    br
+    h Welcome to the website
+    form( action='myPost', method='post')
+            div
+                label( for="Name") Name:
+                input( name='Name' value="")
+            
+            div
+                label( for="Dept") Dept:
+                input( name='Dept' value="")
+            div
+                label( for="email") Email:
+                input( name='email' value="")
+            div
+                label( for="password") PW:
+                input( name='password' value="")
+            button(type="submit") Save and Change
+    div
+        input(type='radio', name='register_webinar_', value='1')
+        label Schedule me
+    div
+        input(type='radio', name='register_webinar_', value='2')
+        label Disable scheduling
+    form( action='myPost', method='post')
+        button(type="submit") Go back
